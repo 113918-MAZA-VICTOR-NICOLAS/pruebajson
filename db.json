@@ -1,5 +1,4 @@
-{
-  "personas": [
+ [
     {
       "nombre": "Ana",
       "edad": 25,
@@ -16,4 +15,4 @@
       "ciudad": "Ciudad C"
     }
   ]
-}
+
