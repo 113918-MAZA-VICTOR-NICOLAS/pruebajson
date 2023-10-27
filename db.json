@@ -1,18 +1,15 @@
  [
-    {
-      "nombre": "Ana",
-      "edad": 25,
-      "ciudad": "Ciudad A"
+     {
+      id: 1,
+      name: "Credito"
+    },
+     {
+      id: 2,
+      name: "Debito"
     },
     {
-      "nombre": "Carlos",
-      "edad": 32,
-      "ciudad": "Ciudad B"
-    },
-    {
-      "nombre": "María",
-      "edad": 28,
-      "ciudad": "Ciudad C"
+      id: 3,
+      name: "Efectivo"
     }
   ]
 
