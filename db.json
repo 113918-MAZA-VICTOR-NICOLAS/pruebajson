@@ -1,15 +1,15 @@
  [
      {
-      id: 1,
-      name: "Credito"
+      "id": 1,
+      "name": "Credito"
     },
      {
-      id: 2,
-      name: "Debito"
+      "id": 2,
+      "name": "Debito"
     },
     {
-      id: 3,
-      name: "Efectivo"
+      "id": 3,
+      "name": "Efectivo"
     }
  ]
 
